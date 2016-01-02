@@ -1,0 +1,9 @@
+.idea
+node_modules
+project/project
+project/target
+src/main/resources/*.gitignore.conf
+src/main/webapp/html
+src/main/webapp/js
+target
+www/js/*.js
